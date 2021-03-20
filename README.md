@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Sadat's github stats](https://github-readme-stats.vercel.app/api?username=Sadatakhtar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadatakhtar&langs_count=8)](https://github.com/Hiba-moh/github-readme-stats)
+
 
 
 <!--
