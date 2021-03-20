@@ -2,7 +2,7 @@
 
 ![Sadat's github stats](https://github-readme-stats.vercel.app/api?username=Sadatakhtar&show_icons=true&theme=radical)
 
-
+[![Sadat's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sadatakhtar)](https://github.com/Hiba-moh/github-readme-stats)
 
 <!--
 **sadatakhtar/sadatakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
